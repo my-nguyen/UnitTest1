@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnitTest1</string>
+    <string name="update_text">Update history</string>
+    <string name="input_text_hint">Text to add</string>
+    <string name="new_text">Empty log</string>
+</resources>
